@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "HustleiOS",
+    "orientation": "portrait",
+    "slug": "hustleios",
+    "version": "1.0.0",
+    "ios": {
+      "userInterfaceStyle": "automatic",
+      "bundleIdentifier": "org.name.Hustle"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.texnodram.Hustle",
+      "userInterfaceStyle": "automatic"
+    },
+    "description": ""
+  }
+}

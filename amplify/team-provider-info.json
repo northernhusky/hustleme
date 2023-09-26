@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-skaalcards-dev-181354-authRole",
+      "UnauthRoleArn": "arn:aws:iam::775536868354:role/amplify-skaalcards-dev-181354-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::775536868354:role/amplify-skaalcards-dev-181354-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-skaalcards-dev-181354-deployment",
+      "UnauthRoleName": "amplify-skaalcards-dev-181354-unauthRole",
+      "StackName": "amplify-skaalcards-dev-181354",
+      "StackId": "arn:aws:cloudformation:us-east-1:775536868354:stack/amplify-skaalcards-dev-181354/3d1900b0-0b63-11ed-b1a8-0ef302a2b543",
+      "AmplifyAppId": "dr4pj3leegw90"
+    },
+    "categories": {
+      "auth": {
+        "skaalcardsfd9632bb": {}
+      }
+    }
+  }
+}
